@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on Harmonic
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me **https://www.linkedin.com/in/dvirbiton/**
-- 
-<img src="https://github.com/dvirBiton1/dvirBiton1/blob/master/assets/92736991/865eb8aa-be96-4a67-a49f-def249e1a27e.png" alt="Dvir photo" width="300">
+  
+<img src="https://github.com/dvirBiton1/dvirBiton1/blob/main/photo.jpg" alt="Dvir photo" width="300">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvirBiton1" alt="dvirBiton1" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
